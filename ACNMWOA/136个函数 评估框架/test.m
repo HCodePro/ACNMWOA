@@ -1,0 +1,4 @@
+clear;
+clc;
+title= [ {'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'FOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'WOA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'FA'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'}; {'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'};{'DE'}];
+xlswrite('test.xls', title, 'F1','A1');
